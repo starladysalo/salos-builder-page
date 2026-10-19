@@ -9,14 +9,20 @@ body{
 }
 
 h1{
-
+    font-style: italic;
     text-align:center;
     color: #ffffff;
 
 }
 
 h2{
+    font-style: italic;
     color: #ffffff;
+
+}
+
+h3{
+    font-style: italic;
 }
 
 p{
@@ -34,4 +40,10 @@ section{
 
 ul{
     background-color: #C1A5E3;
+}
+
+li::marker{
+
+    color: #CC27F5;
+
 }
