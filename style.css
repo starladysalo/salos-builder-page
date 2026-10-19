@@ -15,6 +15,10 @@ h1{
 
 }
 
+h2{
+    color: #ffffff;
+}
+
 p{
 
     text-align: center;
@@ -25,4 +29,9 @@ p{
 section{
 
     background-color: #99319E;
+    
+}
+
+ul{
+    background-color: #C1A5E3;
 }
